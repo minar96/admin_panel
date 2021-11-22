@@ -1,0 +1,35 @@
+/*Table Action Bar*/
+.action-bar ul{
+	padding: 0;
+	margin: 0;
+}
+
+.action-bar ul li{
+	list-style: none;
+	display: inline;
+	margin: 0 5px;
+}
+.action-bar ul li .fa-trash{
+	color: #f012be;
+}
+.action-bar ul li .fa-edit{
+	color: #28a745;
+}
+.action-bar ul li .fa-eye{
+	color: #6610f2;
+}
+
+/*Modal css*/
+.model-confirmation{
+
+}
+.model-confirmation ul{
+
+}
+.model-confirmation ul li{
+	display: inline;
+	list-style: none;
+}
+.model-confirmation ul li a{
+	
+}
